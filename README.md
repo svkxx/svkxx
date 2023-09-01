@@ -1,7 +1,7 @@
 ![logo](https://github.com/svkxx/svkxx/blob/main/Banner.gif)
 
 ###### About Me:
-Hey, I'm [Kuro](https://xyl.lol/kuro). "Revenge is the fire that consumes the arsonist."<br>
+Hey, I'm [Kuro](https://xyl.lol/kuro).<br>
 
 ###### Quote's I stand by:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
