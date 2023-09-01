@@ -15,7 +15,7 @@ Hey, I'm [Kuro](https://xyl.lol/kuro).<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=svkxx&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-###### Databases I have experience in.
+###### Runtimes I have experience in.
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
