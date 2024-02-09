@@ -25,7 +25,7 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=svkxx.svkxx&left_color=darkslategray&right_color=violet&left_text=Vagabonds"  />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=svkxx.svkxx&left_color=darkslategray&right_color=violet&left_text=Vagabonds"  />
 
 ###
 
