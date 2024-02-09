@@ -1,32 +1,36 @@
-![logo](https://github.com/svkxx/svkxx/blob/main/Banner.gif)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svkxx&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svkxx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
 
-###### About Me:
-Hey, I'm [Kuro](https://xyl.lol/kuro).<br>
+###
 
-###### Quote's I stand by:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+</div>
 
-###### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=svkxx&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+###
 
-###### Languages I have experience in.
+<img align="right" height="150" src="https://i.pinimg.com/564x/47/75/37/47753739329de482546f2f69848ab1dd.jpg"  />
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=svkxx&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h3 align="left">Hey, I'm Kuro.<br><br>I have been a developer for a while, I started my journey very early with ROBLOX Lua and gradually went to other languages such as JavaScript. I am not very consistent with languages, because I see so many cool creators make such cool ideas within a lot of languages!</h3>
 
-###### Runtimes I have experience in.
+###
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br clear="both">
 
-###### Databases I have experience in.
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=svkxx.svkxx&left_color=darkslategray&right_color=violet&left_text=Vagabonds"  />
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+###
 
-###### Software I have experience in.
+<br clear="both">
 
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+<img src="https://raw.githubusercontent.com/svkxx/svkxx/output/snake.svg" alt="Snake animation" />
 
-###### Total vagabonds.
-
-[![](https://visitcount.itsvg.in/api?id=svkxx&icon=0&color=0)](https://visitcount.itsvg.in)
+###
