@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=svkxx&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svkxx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">
@@ -28,3 +23,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=svkxx.svkxx&left_color=darkslategray&right_color=violet&left_text=Vagabonds"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svkxx&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=svkxx&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="110" alt="languages graph"  />
+</div>
+
+###
