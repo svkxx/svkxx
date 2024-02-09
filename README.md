@@ -29,8 +29,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/svkxx/svkxx/output/snake.svg" alt="Snake animation" />
-
-###
